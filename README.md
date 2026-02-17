@@ -24,7 +24,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mrunali-mali-25607a326/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
