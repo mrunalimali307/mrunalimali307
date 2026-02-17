@@ -5,9 +5,11 @@
 ---
 
 ## 🚀 About Me
-- 💻 Web Developer  
-- ⚛️ React | JavaScript | Git  
-- 🛠️ Building cool projects & learning every day  
+- 💻 Junior Web Developer
+- 🌱 Currently learning advanced JavaScript & modern web development
+- ⚛️ HTML | CSS | JavaScript
+- 🛠️ Building cool projects & improving skills every day
+- 🎯 Goal: Become a Professional Frontend Developer
 
 ---
 
