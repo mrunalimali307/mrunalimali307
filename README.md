@@ -1,24 +1,30 @@
 <h1 align="center">Hi, I'm Mrunali Mukund Mali 👋</h1>
 
 <p align="center">
-🚀 Web Developer | JavaScript Enthusiast
+🚀 Jr Web Developer | JavaScript Enthusiast
+</p>
+
+<p align="center">
+  Passionate about building responsive web applications and continuously learning modern web technologies.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Jr Web Developer
-- ⚛️ HTML | CSS | JavaScript 
-- 🛠️ Building cool projects & learning every day
+- 💻 Junior Web Developer
+- 🌱 Currently learning advanced JavaScript & modern web development
+- ⚛️ HTML | CSS | JavaScript
+- 🛠️ Building cool projects & improving skills every day
+- 🎯 Goal: Become a Professional Frontend Developer
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with Me
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/mrunali-mali-25607a326/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -26,10 +32,10 @@
 
 ## 🧰 Languages and Tools
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
 </p>
 
 ---
