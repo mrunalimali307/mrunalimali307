@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Passionate about building responsive web applications and continuously learning modern web technologies.
+Passionate about building responsive web applications and continuously learning modern web technologies.
 </p>
 
 ---
@@ -13,17 +13,18 @@
 ## 🚀 About Me
 
 - 💻 Junior Web Developer
-- 🌱 Currently learning advanced JavaScript & modern web development
+- 🌱 Currently learning Advanced JavaScript & Modern Web Development
 - ⚛️ HTML | CSS | JavaScript
-- 🛠️ Building cool projects & improving skills every day
+- 🛠️ Building projects and improving skills every day
 - 🎯 Goal: Become a Professional Frontend Developer
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mrunali-mali-25607a326/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
