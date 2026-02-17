@@ -1,4 +1,4 @@
-# Hi, I'm Tejas Mali  
+# Hi, I'm Mrunali Mukund Mali  
 
 🚀 **Web Developer | JavaScript Enthusiast**
 
